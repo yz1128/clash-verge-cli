@@ -11,7 +11,12 @@
       "PowerShell(python clash_verge_cli_windows.py test GLOBAL --limit 3)",
       "PowerShell(python clash_verge_cli_windows.py proxies)",
       "PowerShell(git init *)",
-      "PowerShell(git add *)"
+      "PowerShell(git add *)",
+      "PowerShell(git remote *)",
+      "PowerShell(git branch *)",
+      "PowerShell(git push *)",
+      "PowerShell(git pull *)",
+      "PowerShell(git checkout *)"
     ]
   }
 }
