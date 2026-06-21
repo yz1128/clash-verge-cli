@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip install *)",
+      "PowerShell(python clash_verge_cli_windows.py --help)",
+      "PowerShell(Test-Path *)",
+      "PowerShell(python clash_verge_cli_windows.py status)",
+      "PowerShell(python clash_verge_cli_windows.py profiles)",
+      "PowerShell(python clash_verge_cli_windows.py status --json)",
+      "PowerShell(python clash_verge_cli_windows.py auto-select --help)",
+      "PowerShell(python clash_verge_cli_windows.py test GLOBAL --limit 3)",
+      "PowerShell(python clash_verge_cli_windows.py proxies)",
+      "PowerShell(git init *)",
+      "PowerShell(git add *)"
+    ]
+  }
+}
